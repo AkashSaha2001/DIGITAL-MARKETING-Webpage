@@ -32,8 +32,7 @@ body{
 }
 .navbar-toggler{
 	outline: none !important;
-}
-/*------------------ Banner section ---------------*/
+/*--------------------- Banner section ---------------*/
 #banner{
 	background-image: linear-gradient(to right,#5f1782,#FF7F50); 
 	color: #fff;
